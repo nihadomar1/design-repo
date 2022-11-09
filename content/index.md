@@ -6,6 +6,7 @@ Description: This is our index page.
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
+Jag heter Nihad Omar och läser den kusren för att bli en web utvecklare!
 
-This is a sample home page written in markdown with some frontmatter defined.
+![me]( image/me.jpg )
+
